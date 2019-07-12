@@ -12,6 +12,7 @@
 		6280084622D7BC8E00F0449D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6280084422D7BC8E00F0449D /* Main.storyboard */; };
 		6280084822D7BC8F00F0449D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6280084722D7BC8F00F0449D /* Assets.xcassets */; };
 		6280084B22D7BC8F00F0449D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6280084922D7BC8F00F0449D /* LaunchScreen.storyboard */; };
+		6280085322D7C7EB00F0449D /* Stretchy-NavBar.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6280085222D7C7EB00F0449D /* Stretchy-NavBar.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6280084722D7BC8F00F0449D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6280084A22D7BC8F00F0449D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6280084C22D7BC8F00F0449D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6280085222D7C7EB00F0449D /* Stretchy-NavBar.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Stretchy-NavBar.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				6280084222D7BC8E00F0449D /* ViewController.swift */,
 				6280084422D7BC8E00F0449D /* Main.storyboard */,
 				6280084722D7BC8F00F0449D /* Assets.xcassets */,
+				6280085222D7C7EB00F0449D /* Stretchy-NavBar.xcassets */,
 				6280084922D7BC8F00F0449D /* LaunchScreen.storyboard */,
 				6280084C22D7BC8F00F0449D /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6280084B22D7BC8F00F0449D /* LaunchScreen.storyboard in Resources */,
+				6280085322D7C7EB00F0449D /* Stretchy-NavBar.xcassets in Resources */,
 				6280084822D7BC8F00F0449D /* Assets.xcassets in Resources */,
 				6280084622D7BC8E00F0449D /* Main.storyboard in Resources */,
 			);
